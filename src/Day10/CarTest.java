@@ -87,8 +87,8 @@ class Car{
             System.out.print("vehicle is not moving");
         }
         else{
-
             speed =speed-5;
+
 
             System.out.println( brand +" brake applied  speed : "+ speed +" kms");
         }
